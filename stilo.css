@@ -1,0 +1,48 @@
+body {
+  background-image: url(numeros_20170614_pc.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: 15pt arial;
+}
+header {
+  color: yellow;
+  text-align: center;
+}
+section {
+  background-image: url(equacao-do-primeiro-grau-classificacao-resolucao-e-tipos-de-equacao.jpg);
+  border-radius: 10px;
+  padding: 15px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+  width: 500px;
+}
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+span {
+  color: yellow;
+  padding-left: 60px;
+}
+select {
+  color: yellow;
+  padding-left: 20px;
+  margin-left: 120px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+option {
+  padding: 5px;
+}
+input#txtn {
+  color: yellow;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px yellow;
+}
+input#botão {
+  color: white;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+  box-shadow: 1px 1px 1px yellow;
+}
